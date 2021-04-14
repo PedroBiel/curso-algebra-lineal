@@ -1,3 +1,3 @@
 # Tareas
 
-Tareas resueltas.
+Tareas resueltas por mí.
